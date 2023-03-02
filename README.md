@@ -1,15 +1,12 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
 
 <h1 align="center">Hi 👋, I'm Pietro Maione</h1>
 <h3 align="center">Junior Full-Stack Web Developer</h3>
 
 
-<p align="left"> <img src="./img/1.png" alt="maionepietro"> </p>
-
 - 📫 How to reach me **pietromaione.developer@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."
+<img align="right" alt="" width="400" src="./img/"
 <p align="left">
 <a href="https://twitter.com/pietro_maione" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pietro_maione" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pietromaione" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pietromaione" height="30" width="40" /></a>

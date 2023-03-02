@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Pietro MAione</h1>
+<h1 align="center">Hi 👋, I'm Pietro Maione</h1>
 <h3 align="center">I'am junior Full-Stack web developer</h3>
 
-<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maionepietro&label=Profile%20views&color=0e75b6&style=flat" alt="maionepietro" /> </p>
 

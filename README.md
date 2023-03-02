@@ -1,3 +1,4 @@
+![MasterHead](./img/2.gif)
 <h1 align="center">Hi 👋, I'm Pietro Maione</h1>
 <h3 align="center">Junior Full-Stack Web Developer</h3>
 <img align="right" alt="" width="400" src="./img/giphy.gif"

@@ -3,7 +3,7 @@
 <h3 align="center">Junior Full-Stack Web Developer</h3>
 <img align="right" alt="" width="400" src="./img/giphy.gif"
 
-<p align="left"> <img width="180" src="https://komarev.com/ghpvc/?username=maionepietro&label=Profile%20views&color=0e75b6&style=flat" alt="maionepietro" /> </p>
+<p align="left"> <img width="80" src="https://komarev.com/ghpvc/?username=maionepietro&label=Profile%20views&color=0e75b6&style=flat" alt="maionepietro" /> </p>
 
 - 📫 How to reach me **pietromaione.developer@gmail.com**
 

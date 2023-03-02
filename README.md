@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pietro Maione</h1>
 <h3 align="center">I'am junior Full-Stack web developer</h3>
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maionepietro&label=Profile%20views&color=0e75b6&style=flat" alt="maionepietro" /> </p>
-
-<p align="left"> <a href="https://twitter.com/pietro_maione" target="blank"><img src="https://img.shields.io/twitter/follow/pietro_maione?logo=twitter&style=for-the-badge" alt="pietro_maione" /></a> </p>
 
 - 📫 How to reach me **pietromaione.developer@gmail.com**
 

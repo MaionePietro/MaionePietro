@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pietro Maione</h1>
-<h3 align="center">I'am junior Full-Stack web developer</h3>
+<h3 align="center">Junior Full-Stack Web Developer</h3>
 <img align="right" alt="" width="400" src="./img/giphy.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maionepietro&label=Profile%20views&color=0e75b6&style=flat" alt="maionepietro" /> </p>

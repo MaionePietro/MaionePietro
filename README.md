@@ -1,5 +1,5 @@
 ![MasterHead](./img/2.gif)
-<img src=”img/banner.jpg" width=”200" alt=”my banner”>
+<img src=”(https://github.com/MaionePietro/MaionePietro/blob/main/img/banner.jpg)" width=”200" alt=”my banner”>
 
 - 📫 How to reach me **pietromaione.developer@gmail.com**
 

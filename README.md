@@ -1,5 +1,5 @@
 ![MasterHead](./img/2.gif)
-<p align=”center”> <img width=”200" src=”img/banner.jpg" alt=”my banner”> </p>
+<img src=”img/banner.jpg" width=”200" alt=”my banner”>
 
 - 📫 How to reach me **pietromaione.developer@gmail.com**
 

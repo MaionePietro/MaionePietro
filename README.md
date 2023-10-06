@@ -1,5 +1,5 @@
 ![MasterHead](./img/banner.jpg)
-<center>
+
 - 📫 How to reach me **pietromaione.developer@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -18,4 +18,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maionepietro&" alt="maionepietro" /></p>
 
-</center>
+

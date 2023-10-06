@@ -1,7 +1,4 @@
 ![MasterHead](./img/banner.jpg)
-<img src=”(https://github.com/MaionePietro/MaionePietro/blob/main/img/banner.jpg)" width=”200" alt=”my banner”>
-![Testo alternativo dell'immagine]([URL_dell'immagine](https://github.com/MaionePietro/MaionePietro/blob/main/img/banner.jpg))
-
 - 📫 How to reach me **pietromaione.developer@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
